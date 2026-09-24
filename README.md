@@ -38,7 +38,7 @@ This project performs end-to-end analysis of Rapido ride-sharing data, covering:
 ---
 
 ## 📊 Dataset
-| Kaggle Dataset link :(rides_csv.csv) "https://www.kaggle.com/datasets/vishaldeoprasad/bangalore-rapido-ride-services-dataset"
+| Kaggle Dataset link : (rides_data.csv) "https://www.kaggle.com/datasets/vishaldeoprasad/bangalore-rapido-ride-services-dataset"
 | Attribute | Value |
 |---|---|
 | Source | Rapido ride records |
